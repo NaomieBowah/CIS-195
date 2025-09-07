@@ -1,2 +1,18 @@
-<html>
-  <header>GB News</header>
+<!DOCTYPE html>
+<htlm> 
+  <Link:css></Link:css>
+  <a hpef="Company.html">About Company </a>
+  <Nav>
+    <p>Local Stories
+      Overseas
+      Cast
+    </p>
+   <a href="Video 1.html">Video 1 </a>
+   <a href="Video 2.html">Video 2 </a>
+   <a href="Video 3.html">Video 3 </a>
+   <a href="Video 4.html">Video 4 </a>
+      <footer>~</footer>
+   <p>Contact</p> <a href="Contact.html ">Contact</a>
+      <p>Media</p>
+  </Nav>
+</htlm>
